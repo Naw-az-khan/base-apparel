@@ -1,0 +1,58 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.bck{
+    width: 500px;
+    height: 400px; 
+    float: left;
+}
+.span{
+    font-size: 40px;
+    background-color: transparent; 
+}
+.span1{
+    color: rgb(231, 159, 171);
+}
+.txt{
+    width: 600px;
+    height: 400px;
+    font-size: 12px;
+    background-color: transparent; 
+    position: absolute;
+    top: 90px;
+    left: 50px;
+}
+.input{
+    padding-left: 20px;
+  height: 30px;
+  width: 280px;
+  border: 0.2 px solid gray;
+  border-radius: 20px;
+  background-color: transparent;     
+}
+.btn{
+    height: 30px;
+    width: 50px;
+    font-size: 20px;
+    color: white;
+    border:none;
+    background-color: rgb(248, 138, 156);
+    border-radius: 20px;
+    position: absolute;
+    left: 240px;
+}
+.logo{
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    height: 20px;
+    width: 80px;
+}
+.pic{
+    width: 300px;
+    height:400px;
+    display: inline-block;
+   
+}
